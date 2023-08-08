@@ -28,7 +28,7 @@ function App() {
       {/* <button onClick={handleClick}>Click me</button> */}
       {/* <div>here: {showValue}</div> */}
       {/* properties to be called as "props" */}
-      <Output value={showValue} here="here:" />
+      <Output value={showValue} here="here world here:" />
       <InputTwo />
     </div>
   );
